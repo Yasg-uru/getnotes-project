@@ -1,0 +1,59 @@
+/* .card-container {
+   display: flex;
+   flex-direction: column;
+   border: 3px solid black;
+   justify-content: center;
+   align-items: center;
+   margin-top: 10%;
+  }
+  
+  .card {
+    border: 2px solid red;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+
+    
+  }
+  
+  .inputs{
+    margin-top: 20px;
+    margin-bottom: 5px;
+  }
+  .btn{
+height: 30px;
+width: 80px;
+  } */
+  .card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ensure the card container covers the entire viewport height */
+  }
+  
+  .card {
+    border: 2px solid red;
+    width: 60%;
+    padding: 20px;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .inputs {
+    margin-bottom: 15px; /* Add margin below each input for spacing */
+  }
+  
+  label {
+    margin-bottom: 5px;
+  }
+  
+  .btn {
+    margin-top: 10px;
+  }
+  

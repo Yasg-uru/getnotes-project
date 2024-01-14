@@ -1,0 +1,28 @@
+.change-role-container{
+    /* border: 2px solid red; */
+    background-color: black;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.change-role-nested{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid red; */
+    background-color: aqua;
+    border-radius: 30px;
+    box-shadow: rgba(0, 255, 229, 0.25) 0px 54px 55px, rgba(8, 217, 240, 0.12) 0px -12px 30px, rgba(6, 240, 236, 0.12) 0px 4px 6px, rgba(1, 228, 249, 0.17) 0px 12px 13px, rgba(5, 230, 215, 0.09) 0px -3px 5px;
+
+}
+.change-role-nested form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 600px;
+}

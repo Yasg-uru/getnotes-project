@@ -1,0 +1,21 @@
+.lists{
+    height: 20px;
+    list-style: none;
+  width: 500px;
+  height:70px;
+  border: 2px solid white;
+  background-color: rgb(160, 18, 216);
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+.a-tag{
+    text-align: center;
+    color: cyan;
+    text-decoration: none;
+    font-size: 25px;
+
+}

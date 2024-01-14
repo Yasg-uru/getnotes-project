@@ -1,0 +1,25 @@
+.container{
+    /* display: flex; */
+    /* justify-content: flex-end; */
+    background-color: rgb(233, 186, 178);
+    color: rgb(255, 1, 1);
+    height: 80px;
+    border: 3px solid rgb(128, 0, 0);
+    padding: 1%;
+    border-radius: 20px;
+}
+.unorderedlist{
+    /* width: 70%; */
+    margin-left: 30%;
+    /* border: 3px solid red; */
+    display: flex;
+    justify-content:space-around;
+    list-style: none;
+    cursor: pointer;
+    font-size: 25px;
+    
+}
+.unorderedlist li:hover{
+    color: aqua;
+
+}

@@ -1,0 +1,13 @@
+.getalluser-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    background-color: black;
+    
+}
+
+#table_tag{
+    box-shadow: rgba(5, 228, 244, 0.25) 0px 54px 55px, rgba(6, 218, 229, 0.12) 0px -12px 30px, rgba(9, 229, 240, 0.12) 0px 4px 6px, rgba(10, 165, 231, 0.17) 0px 12px 13px, rgba(3, 190, 223, 0.09) 0px -3px 5px;
+    /* box-shadow: rgba(237, 2, 2, 0.25) 0px 50px 100px -20px, rgba(239, 5, 5, 0.3) 0px 30px 60px -30px, rgba(0, 128, 255, 0.35) 0px -2px 6px 0px inset; */
+}

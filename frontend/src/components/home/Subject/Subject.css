@@ -1,0 +1,17 @@
+.subject-container{
+
+     border: 3px solid white;
+     border-radius: 10px;
+     height: 200px;
+     width: 300px;
+     margin: 10px;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+     background-color: rgb(125, 203, 236);
+}
+.subject-container h1 {
+    color: rgb(213, 134, 15);
+}

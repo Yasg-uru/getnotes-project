@@ -1,0 +1,27 @@
+/* Add this to your existing CSS or create a new CSS file */
+
+.delete-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #000000;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  /* Style for success message */
+  .delete-container .success {
+    color: #28a745; /* Green color */
+  }
+  
+  /* Style for failure message */
+  .delete-container .failure {
+    color: #dc3545; /* Red color */
+  }
+  
